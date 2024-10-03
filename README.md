@@ -1,1 +1,1 @@
-testing min
+Pemrogoraman Pemilihan bilangan
